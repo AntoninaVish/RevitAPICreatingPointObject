@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPICreatingPointObject.dll"</Assembly>
+		
+		<AddInId>78A39CEE-3781-4107-A4E5-2DAC883EB3E2</AddInId>
+		<FullClassName>RevitAPICreatingPointObject.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPICreatingPointObject</Text>
+	</AddIn>
+</RevitAddIns>
